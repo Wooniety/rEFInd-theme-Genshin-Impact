@@ -2,6 +2,9 @@
 
 Because Liyue Harbour is really pretty and Zhongli has no Mora
 
+![Screenshot_1](https://i.imgur.com/LzvvyOC.png)
+![Screenshot_2](https://i.imgur.com/CDWZz9F.png)
+
 ## Installation
 
 1. Clone this repo  
