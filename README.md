@@ -2,8 +2,8 @@
 
 Because Liyue Harbour is really pretty and Zhongli has no Mora
 
-![Screenshot_1](https://i.imgur.com/LzvvyOC.png)
-![Screenshot_2](https://i.imgur.com/CDWZz9F.png)
+![Screenshot_1](./screenshots/liyue.png)
+![Screenshot_2](./screenshots/liyue_2.png)
 
 ## Installation
 
@@ -11,7 +11,7 @@ Because Liyue Harbour is really pretty and Zhongli has no Mora
    ```bash
    https://github.com/Wooniety/rEFInd-theme-Genshin-Impact
    ```
-2. Remove unnecessary files i.e `.git` folder
+2. Remove unnecessary files i.e `.git` and `screenshots` folders
 3. Figure out where your refind directory is. Mine was `/boot/efi/EFI/refind`
 4. Create a folder named `themes`
 5. Move 'rEFInd-theme-Genshin-Impact` into `themes`
